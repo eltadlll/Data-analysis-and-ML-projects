@@ -1,0 +1,28 @@
+Gender,Product_Category,Total_Net_Amount
+Female,"Pet Care",4840.34
+Female,"Toys & Games",4128.25
+Female,"Home & Kitchen",3580.57
+Female,"Beauty and Health",3128.95
+Female,Electronics,3093.12
+Female,Clothing,2644.21
+Female,Other,2278.37
+Female,Books,2217.9
+Female,"Sports & Fitness",1595.76
+Male,Other,5748.04
+Male,"Pet Care",4960.9
+Male,"Beauty and Health",3865.83
+Male,"Home & Kitchen",3741.55
+Male,"Toys & Games",3716.14
+Male,"Sports & Fitness",3120.51
+Male,Clothing,3100.71
+Male,Books,2877.74
+Male,Electronics,2232.5
+Other,Other,4583.76
+Other,"Sports & Fitness",4198.59
+Other,Clothing,3349.63
+Other,"Toys & Games",3338.4
+Other,"Beauty and Health",2841.93
+Other,Electronics,2588.78
+Other,"Home & Kitchen",2407.98
+Other,Books,1386.49
+Other,"Pet Care",878.76
